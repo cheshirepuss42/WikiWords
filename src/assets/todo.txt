@@ -1,0 +1,5 @@
+﻿-make timing syatem
+-add 'win'-animation
+
+
+-convert to using timer instead of frames and distance.
